@@ -3,16 +3,6 @@ image: /assets/img/blog/hydejack-8.png
 ---
 
 # About
-
-```html
-<div>
-  <h1> My Coding Activity: </h1>
-  
-  {%- include activity.html -%}
-  
-</div>
-```
-
 The "Best Jekyll Theme by a Mile".
 {:.lead}
 
@@ -150,6 +140,10 @@ This table below shows what's included in each version:
 | | [**Download**][kit] <br/>-- or --<br/> [![Deploy to Netlify][dtn]{:data-ignore=""}][nfy]{:.no-hover.no-mark} | [**Buy PRO**][buy] |
 {:.stretch-table.dl-table}
 
+
+## My Coding Activity
+![Coding Languages](https://wakatime.com/share/@SylasVex/f32978a4-41b5-4663-a1d2-d6364e6bbe94.svg)
+![Coding Activity](https://wakatime.com/share/@SylasVex/205bf7d9-607b-4bd5-a402-e0afa6eb48da.svg)
 
 
 [^1]: You MAY open an issue on GitHub, but no response and/or fix is guaranteed.

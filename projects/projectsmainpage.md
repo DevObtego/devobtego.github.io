@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Projects
+description >
+  Here you should find all of my projects
+hide-description: true
 permalink: /projects/
 ---
 
-<h1> There's things in here I swear </h1>
+# Projects

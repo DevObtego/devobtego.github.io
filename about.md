@@ -4,6 +4,15 @@ image: /assets/img/blog/hydejack-8.png
 
 # About
 
+```html
+<div>
+  <h1> My Coding Activity: </h1>
+  
+  {%- include activity.html -%}
+  
+</div>
+```
+
 The "Best Jekyll Theme by a Mile".
 {:.lead}
 

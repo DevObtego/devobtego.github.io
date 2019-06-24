@@ -51,11 +51,11 @@ author:
 menu:
   - title:             About Hydejack
     url:               /hydejack/
-  - title:             About Hyde
-    url:               /hyde/
-  - title:             Documentation
+  - title:             Projects
+    url:               /projects/
+  - title:             Site Documentation
     url:               /docs/
-  - title:             About
+  - title:             About Me
     url:               /about/
 
 # Add links to the footer.

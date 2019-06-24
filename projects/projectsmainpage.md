@@ -6,3 +6,5 @@ permalink: /projects/
 ---
 
 # Projects
+Hmm...
+I need to start doing things
